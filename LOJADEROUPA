@@ -1,12 +1,21 @@
   <!DOCTYPE html>
-  <html>     
-     <h1>Sobre a Loja de Roupa</h1>
-   
-     <p>Localizada no centro da cidade a <strong>Loja De Roupa Do Alura</strong>trás para seu mercado belas roupas,para o sua melhor vestimento,foi fundada em 1983,a loja de roupa,
-     ja é destaque na cidade e conquista novos clientes todo dia.</p>
+  <html lang="pt-br">
+      <head>
+          <meta charset="UTF-8"
+          <title>Loja de roupa</title>
+      </head>
+      <body>
+      
+      </body>
+      
+      <h1 style="text-aling: center">Loja de Roupa</h1>
+       
+     <h1>Sobre a Loja de Roupa</h1>ja é destaque na cidade e conquista novos clientes todo dia.</p>
   
-     <p><em>Nossa missão é: <strong>"proporcionar seu estilo e auto-estima dos nossos clientes"</strong>.</em></p>
+     <p.style="font-size: 20px"><em>Nossa missão é: <strong>"proporcionar seu estilo e auto-estima dos nossos clientes"</strong>.</em></p>
      Oferecemos profissionais experimentos e atenados às mudanças ni mundo da moda. O atendimento possui padrão da excelência e agilidade,garantindo qualidade e sastifação dos nossos clientes 
   
      <p>Temos roupa de alta qualidade e muitas roupas importadas,para a melhor vestimenta dos meus clientes,e para eles sairem felizes cm os produtos da minha loja.</p>
-  </html>
+   </body>
+ </html>
+
