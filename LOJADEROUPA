@@ -3,19 +3,23 @@
       <head>
           <meta charset="UTF-8"
           <title>Loja de roupa</title>
-      </head>
+          <style>
+              p {
+                  text-align: center
+              }
+          </head>
+      
       <body>
-      
-      </body>
-      
       <h1 style="text-aling: center">Loja de Roupa</h1>
        
-     <h1>Sobre a Loja de Roupa</h1>ja é destaque na cidade e conquista novos clientes todo dia.</p>
+     <h1 style="text-aling: center>Sobre a Loja de Roupa</h1>ja é destaque na cidade e conquista novos clientes todo dia.</p>
   
-     <p.style="font-size: 20px"><em>Nossa missão é: <strong>"proporcionar seu estilo e auto-estima dos nossos clientes"</strong>.</em></p>
-     Oferecemos profissionais experimentos e atenados às mudanças ni mundo da moda. O atendimento possui padrão da excelência e agilidade,garantindo qualidade e sastifação dos nossos clientes 
+     <p "font-size: 20px; text-align: center"><em>Nossa missão é: <strong>"proporcionar seu estilo e auto-estima dos nossos clientes"</strong>.</em></p>
+     
+     <p "font-size: 20px; text-align: center"><em>Nossa missão é: <strong>"proporcionar seu estilo e auto-estima dos nossos clientes"</strong>.</em></p>
+     Oferecemos profissionais experimentos e atenados às mudanças no mundo da moda. O atendimento possui padrão da excelência e agilidade,garantindo qualidade e sastifação dos nossos clientes 
   
-     <p>Temos roupa de alta qualidade e muitas roupas importadas,para a melhor vestimenta dos meus clientes,e para eles sairem felizes cm os produtos da minha loja.</p>
+     <p style="text-align: center">Temos roupa de alta qualidade e muitas roupas importadas,para a melhor vestimenta dos meus clientes,e para eles sairem felizes cm os produtos da minha loja.</p>
    </body>
  </html>
 
